@@ -3,7 +3,7 @@
     "name": "AzuriteCon",
     "tagline": "A celebration of creativity, fandom, artists and community.",
     "date": "17–18 April 2027",
-    "venue": "1 Bedford St, Newtown NSW 2042",
+    "venue": "Inner West Pride Centre, 1 Bedford St, Newtown NSW 2042",
     "description": "AzuriteCon is an event celebrating artists, creators, fandom and community in Newtown, NSW."
   },
   "tickets": {
@@ -27,10 +27,10 @@
     "information": "Artist Alley application and information will be provided here."
   },
   "gettingThere": {
-    "address": "1 Bedford St, Newtown NSW 2042",
-    "publicTransport": "Add public transport information here.",
-    "parking": "Add parking information here.",
-    "accessibility": "Add accessibility information here."
+    "address": "Inner West Pride Centre, 1 Bedford St, Newtown NSW 2042",
+    "publicTransport": "The venue is only a few minutes walk away from Newtown Station, and is also accessible via buses.",
+    "parking": "There is paid parking available in Newtown near the venue, and limited street parking.",
+    "accessibility": "The venue has a lift which can be used to access the market. All artist tables, mirror and clothing racks will be located in the hall. The free activity tables and Mini Lolita Musuem display are on the stage which can be accessed by walking a few stairs but no ramp and therefore is no accessible. Please see AzuriteCon staff for a free activity pack if you cannot access the stage."
   },
   "bumpIn": {
     "information": "Add artist bump-in instructions, times and access information here."
