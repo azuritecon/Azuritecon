@@ -1,0 +1,79 @@
+{
+  "event": {
+    "name": "AzuriteCon",
+    "tagline": "A celebration of creativity, fandom, artists and community.",
+    "date": "17–18 April 2027",
+    "venue": "1 Bedford St, Newtown NSW 2042",
+    "description": "AzuriteCon is an event celebrating artists, creators, fandom and community in Newtown, NSW."
+  },
+  "tickets": {
+    "salesEnd": "Thursday, 15 April 2027",
+    "eventbriteUrl": "",
+    "marketEntry": {
+      "online": "$8 + booking fees",
+      "onTheDay": "$11"
+    },
+    "saturdayMarketPanelsPerformances": {
+      "online": "$15 + booking fees",
+      "availability": "Online sales only"
+    },
+    "children12AndUnder": {
+      "price": "$4",
+      "availability": "Pay on the day only"
+    }
+  },
+  "artistAlley": {
+    "applicationUrl": "https://forms.gle/u6Lm7Ah8XPCTw22KA",
+    "information": "Artist Alley application and information will be provided here."
+  },
+  "gettingThere": {
+    "address": "1 Bedford St, Newtown NSW 2042",
+    "publicTransport": "Add public transport information here.",
+    "parking": "Add parking information here.",
+    "accessibility": "Add accessibility information here."
+  },
+  "bumpIn": {
+    "information": "Add artist bump-in instructions, times and access information here."
+  },
+  "schedule": [
+    {
+      "day": "Saturday 17 April 2027",
+      "time": "10:00 AM",
+      "title": "Add panel or performance",
+      "description": "Add schedule details here.",
+      "location": "Main Stage"
+    },
+    {
+      "day": "Sunday 18 April 2027",
+      "time": "10:00 AM",
+      "title": "Add panel or performance",
+      "description": "Add schedule details here.",
+      "location": "Main Stage"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Where is AzuriteCon?",
+      "answer": "AzuriteCon will be held at 1 Bedford St, Newtown NSW 2042."
+    },
+    {
+      "question": "When does online ticket sales end?",
+      "answer": "Online Eventbrite ticket sales end Thursday, 15 April 2027."
+    },
+    {
+      "question": "How much is entry?",
+      "answer": "Market Entry is $8 plus booking fees online, or $11 on the day. Saturday Market + Panels & Performances is $15 plus booking fees online only. Kids aged 12 years or under are $4 on the day."
+    },
+    {
+      "question": "How do I apply for Artist Alley?",
+      "answer": "Use the Artist Alley application form linked on the website."
+    }
+  ],
+  "contact": {
+    "email": "",
+    "socialLinks": {
+      "instagram": "",
+      "facebook": ""
+    }
+  }
+}
