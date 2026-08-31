@@ -11,15 +11,15 @@
   "ticketSalesEnd": "Thursday, 15 April 2027",
   "tickets": [
     {
-      "name": "Market Entry",
+      "name": "Market General Entry",
       "price": "$8 + booking fees",
-      "note": "Online",
-      "extra": "$11 on the day"
+      "note": "Online via Eventbrite",
+      "extra": "$11 on the day at the door"
     },
     {
       "name": "Saturday Market + Panels & Performances",
       "price": "$15 + booking fees",
-      "note": "Online sales only",
+      "note": "Online sales only via Eventbrite",
       "extra": ""
     },
     {
