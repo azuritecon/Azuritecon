@@ -53,7 +53,7 @@ After editing `content.json`, commit the change to GitHub. GitHub Pages will aut
 
 The website currently contains the supplied AzuriteCon ticket information:
 
-- Market Entry: $8 + booking fees online / $11 on the day TEST
+- Market Entry: $8 + booking fees online / $11 on the day
 - Saturday Market + Panels & Performances: $15 + booking fees, online sales only
 - Kids aged 12 years or under: $4, pay on the day only
 - Online Eventbrite sales end Thursday, 15 April 2027
