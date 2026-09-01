@@ -33,9 +33,16 @@
   "schedule": [
     {
       "time": "10:00 AM",
-      "title": "Opening Ceremony",
-      "type": "Featured",
-      "room": "Main Stage"
+      "title": "Market Opens",
+      "type": "Saturday",
+      "room": "Main Hall"
+    },
+    {
+      "time": "4:30 PM",
+      "title": "Market Ends",
+      "type": "Saturday",
+      "room": "Main Hall"
+
     },
     {
       "time": "11:00 AM",
