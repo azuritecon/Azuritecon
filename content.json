@@ -36,23 +36,23 @@
       "title": "Saturday Jfashion Market Opens",
       "type": "Saturday",
       "room": "Main Hall"
+      },
+    {
+      "time": "10:00AM-4:00PM",
+      "title": "Enjoy free activities such as colouring in sheets, bracelet making and playing our colour matching game!",
+      "type": "Saturday",
+      "room": "Main Stage"
+      },
+    {
+      "time": "10:00AM-4:00PM",
+      "title": "Take fun photos with our backdrops and use our mini photo booth (charge applies for photo booth).",
+      "type": "Saturday",
+      "room": "Main Hall"      
     },
     {
       "time": "4:30 PM",
       "title": "Saturday Jfashion Market Ends",
       "type": "Saturday",
-      "room": "Main Hall"
-    },
-    {
-      "time": "10:00 AM",
-      "title": "Sunday Jfashion Market Opens",
-      "type": "Sunday",
-      "room": "Main Hall"
-    },
-    {
-      "time": "4:00 PM",
-      "title": "Sunday Jfashion Market Ends",
-      "type": "Sunday",
       "room": "Main Hall"
     },
     {
@@ -90,6 +90,30 @@
       "title": "Panel 6",
       "type": "Performance",
       "room": "Main Stage"
+    },
+    {
+      "time": "10:00 AM",
+      "title": "Sunday Jfashion Market Opens",
+      "type": "Sunday",
+      "room": "Main Hall"
+      },
+    {
+      "time": "10:00AM-3:00PM",
+      "title": "Take fun photos with our backdrops and use our mini photo booth (charge applies for photo booth).",
+      "type": "Saturday",
+      "room": "Main Hall"      
+      },
+    {
+      "time": "10:00AM-3:30PM",
+      "title": "Enjoy free activities such as colouring in sheets, bracelet making and playing our colour matching game!",
+      "type": "Sunday",
+      "room": "Main Stage"
+    },
+    {
+      "time": "4:00 PM",
+      "title": "Sunday Jfashion Market Ends",
+      "type": "Sunday",
+      "room": "Main Hall"
     },
     {
       "time": "12:30 PM",
