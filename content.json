@@ -42,7 +42,18 @@
       "title": "Saturday Jfashion Market Ends",
       "type": "Saturday",
       "room": "Main Hall"
-
+    },
+    {
+      "time": "10:00 AM",
+      "title": "Sunday Jfashion Market Opens",
+      "type": "Sunday",
+      "room": "Main Hall"
+    },
+    {
+      "time": "4:00 PM",
+      "title": "Sunday Jfashion Market Ends",
+      "type": "Sunday",
+      "room": "Main Hall"
     },
     {
       "time": "11:00 AM",
