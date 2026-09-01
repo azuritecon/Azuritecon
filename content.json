@@ -33,13 +33,13 @@
   "schedule": [
     {
       "time": "10:00 AM",
-      "title": "Market Opens",
+      "title": "Saturday Jfashion Market Opens",
       "type": "Saturday",
       "room": "Main Hall"
     },
     {
       "time": "4:30 PM",
-      "title": "Market Ends",
+      "title": "Saturday Jfashion Market Ends",
       "type": "Saturday",
       "room": "Main Hall"
 
