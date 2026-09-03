@@ -26,8 +26,8 @@
 }
 
 .social-links a {
-  width: 44px;
-  height: 44px;
+  width: 32px;
+  height: 32px;
   border: 1px solid rgba(255,255,255,.25);
   border-radius: 50%;
   display: flex;
@@ -44,7 +44,7 @@
 }
 
 .social-links svg {
-  width: 22px;
-  height: 22px;
+  width: 16px;
+  height: 16px;
   display: block;
 }
